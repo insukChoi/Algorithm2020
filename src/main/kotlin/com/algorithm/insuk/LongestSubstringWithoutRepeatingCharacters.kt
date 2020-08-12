@@ -2,6 +2,7 @@ package com.algorithm.insuk
 
 import java.lang.RuntimeException
 
+// https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/
 class LongestSubstringWithoutRepeatingCharacters {
     fun subStringNoDuplicateCnt(s: String): Int {
         val strAppend = StringBuffer()
