@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-08-12T14:33:36" hostname="choeinseog-ui-iMac.local" time="0.026">
+  <properties/>
+  <testcase name="예제1()" classname="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" time="0.022"/>
+  <testcase name="예제2()" classname="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" time="0.0"/>
+  <testcase name="예제3()" classname="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" time="0.0"/>
+  <testcase name="예제4()" classname="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" time="0.001"/>
+  <testcase name="예제5()" classname="com.algorithm.insuk.LongestSubstringWithoutRepeatingCharactersTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
