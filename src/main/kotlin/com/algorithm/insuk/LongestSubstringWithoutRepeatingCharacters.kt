@@ -3,10 +3,7 @@ package com.algorithm.insuk
 import java.lang.RuntimeException
 
 class LongestSubstringWithoutRepeatingCharacters {
-    fun subStringNoDuplicateCnt(s: String?): Int {
-        // pre condition
-        s ?: throw IllegalArgumentException("Null 말고 String 입력 부탁드립니다.")
-
+    fun subStringNoDuplicateCnt(s: String): Int {
         val strAppend = StringBuffer()
         var maxCnt = 0
         s.forEach {
